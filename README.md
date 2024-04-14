@@ -34,7 +34,7 @@ I'm a full stack developer...
 Clone the project
 
 ```bash
-  git clone https://github.com/BurhanMohammad/Django-portfilio-website.git
+  git clone https://github.com/Quao93126/Django-Portfolio.git
 ```
 
 Go to the project directory
