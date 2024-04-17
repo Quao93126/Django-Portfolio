@@ -1,13 +1,3 @@
-# important
-"Hi, I am Uc Minh O from freelancer.
-
-live:.cid.8111eaec5827c4eb
-
-This is my skype.
-
-I want to discuss for convenienty here.
-We have to not tell "skype" in freelancer.
-Thanks"
 
 
 # My Personal Portfilio Website (Django)
